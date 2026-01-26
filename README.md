@@ -13,4 +13,4 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I plan on improving this project, by becoming more familiar with the coding process and learning how to use different features to achieve the same processes.
