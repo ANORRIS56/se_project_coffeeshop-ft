@@ -20,9 +20,8 @@
 
 .form__input {
   width: 100%;
-  height: 60px;
   margin-top: 8px;
-  padding: 0 20px;
+  padding: 15px 20px;
   box-sizing: border-box;
   border: 1px solid #838383;
   border-radius: 4px;
@@ -37,7 +36,7 @@
 
 .form__button {
   width: 100%;
-  height: 60px;
+  padding: 20px 0;
   margin-bottom: 32px;
   background-color: #1878dc;
   color: #ffffff;
